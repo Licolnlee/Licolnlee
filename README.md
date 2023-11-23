@@ -2,10 +2,6 @@
 
 Nice to coading with you !  
 
-Things I code with  
-
-![Python3.9](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
-
 
 
 <!--
